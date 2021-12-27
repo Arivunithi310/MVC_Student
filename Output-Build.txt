@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: ContosoUniversity, Configuration: Debug Any CPU ------
+1>  ContosoUniversity -> C:\Users\ARUN\source\repos\MVC_Student\MVC_Student\bin\MVC_Student.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
